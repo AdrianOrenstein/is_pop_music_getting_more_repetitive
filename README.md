@@ -30,7 +30,7 @@ while read p; do
 done < pip3_requirements.txt
 ```
 
-Fonts used in my visualisations: [xkcd font](/fonts/xkcd.tff) and [Humor-Sans](/fonts/Humor-Sans.tff)
+Fonts used in my visualisations: [xkcd font](fonts/xkcd.ttf) and [Humor-Sans](fonts/Humor-Sans.ttf)
 
 ## Generating the Dataset
 
