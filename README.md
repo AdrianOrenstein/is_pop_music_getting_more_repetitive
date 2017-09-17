@@ -4,7 +4,7 @@ This is my static data visualisation research assignment for "Grand Challenges i
 
 My question was whether pop music is getting repetitive, the dataset was scraped off of [metrolyrics](http://www.metrolyrics.com/).
 
-You can download my dataset [here](https://github.com/AdrianOrenstein/Is_Pop_Music_Getting_More_Repetitive/lyricDataset.csv).
+You can download my dataset [here](lyricDataset.csv).
 
 #### [The finished poster](Poster_A4.pdf)
 
