@@ -62,5 +62,5 @@ Generates a histogram showing the distribution of the top100 songs dataset from 
 
 ## Built With
 
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - The web scraper used
-* [MatplotLib](https://matplotlib.org/) - The graphing library used
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - The web scraper
+* [MatplotLib](https://matplotlib.org/) - The graphing library
