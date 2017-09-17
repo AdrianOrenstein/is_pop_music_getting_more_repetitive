@@ -6,7 +6,7 @@ My question was whether pop music is getting repetitive, the dataset was scraped
 
 You can download my dataset [here](lyricDataset.csv).
 
-#### [The finished poster](Poster_A4.pdf)
+![The finished poster](Poster.jpg)
 
 ## Getting Started
 
